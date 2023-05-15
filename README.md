@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Add PR Summary step to Ultralytics Actions (#7675)
