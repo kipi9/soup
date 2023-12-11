@@ -1,1 +1,1 @@
-Fixed dataloader CPU bottleneck for small batch sizes (#7659)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
