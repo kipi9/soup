@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
