@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
