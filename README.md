@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
